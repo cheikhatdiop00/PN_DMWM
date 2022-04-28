@@ -1,2 +1,2 @@
 # PN_DMWM
-Logiciel web
+applicattion mobile
